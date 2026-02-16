@@ -99,7 +99,7 @@ main {
 }
 
 .cover__title {
-  position: relative; 
+  position: relative;
   z-index: 2;
   font-family: 'Raleway';
   font-style: normal;
@@ -273,7 +273,7 @@ main {
   margin-top: 30px;
   margin-bottom: 156px;
   text-underline-offset: 4px;
-  margin-right: 780px; 
+  margin-right: 780px;
 }
 
 .about {
